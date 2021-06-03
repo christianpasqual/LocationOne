@@ -1,7 +1,7 @@
 html, body {
-  height: 100%;
+  height: device-height;
   overflow: hidden;
-  width: 100%;
+  width: device-width;
   position: fixed;
 
   margin: 0;
@@ -15,7 +15,7 @@ body {
 }
 
 .slide-right {
-  width: 100%;
+  width: device-width;
   overflow: hidden;
   margin-left: 300px;
   max-width: 500px
