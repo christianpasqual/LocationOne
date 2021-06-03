@@ -17,7 +17,7 @@ body {
 .slide-right {
   width: device-width;
   overflow: hidden;
-  margin-left: 10px;
+  margin-left: 0px;
   max-width: 500px
 }
 
