@@ -2,7 +2,7 @@ html, body {
   height: device-height;
   overflow: hidden;
   width: device-width;
-  position: fixed;
+  position: center;
 
   margin: 0;
   padding: 0;
