@@ -34,7 +34,7 @@ font-style: normal;
   }
 
 img.location1 {
-  width: 200px;
+  width: device-width;
   height: auto;
 }
 
