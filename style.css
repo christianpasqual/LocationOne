@@ -4,7 +4,7 @@ html, body {
   width: device-width;
   position: center;
 
-  margin: 10px;
+  margin: 0;
   padding: 0;
 }
 canvas {
