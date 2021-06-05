@@ -33,9 +33,13 @@ font-weight: 400;
 font-style: normal;
   }
 
-img.location1 {
+img {
   width: device-width;
   height: auto;
+}
+
+.scale-down {
+  object-fit: scale-down;
 }
 
 .slide-right {
