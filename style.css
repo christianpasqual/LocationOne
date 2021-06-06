@@ -1,6 +1,5 @@
 html, body {
   height: device-height;
-  overflow: hidden;
   width: device-width;
   position: center;
   margin: 10px;
@@ -34,8 +33,8 @@ font-style: normal;
   }
 
 img {
-  width: device-width;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .scale-down {
@@ -44,7 +43,6 @@ img {
 
 .slide-right {
   width: device-width;
-  overflow: hidden;
   margin-left: 0px;
   max-width: 500px
 }
